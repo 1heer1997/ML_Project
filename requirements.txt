@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e . ## whenever req.txt file run , setup.py also run
